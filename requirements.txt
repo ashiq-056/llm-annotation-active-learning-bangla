@@ -1,0 +1,12 @@
+# Analysis scripts
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Notebooks (Colab GPU runtime)
+torch
+transformers
+accelerate
+bitsandbytes
+datasets
