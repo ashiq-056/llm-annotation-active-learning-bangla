@@ -1,0 +1,58 @@
+{
+ "shots": [
+  {
+   "sent_id": "cc5c6fbb11d5",
+   "label": 2
+  },
+  {
+   "sent_id": "9755ea5b9c5f",
+   "label": 1
+  },
+  {
+   "sent_id": "789ed5946a4d",
+   "label": 1
+  },
+  {
+   "sent_id": "a88310cd1bee",
+   "label": 2
+  },
+  {
+   "sent_id": "0b59a91a658e",
+   "label": 0
+  },
+  {
+   "sent_id": "9ac122c73991",
+   "label": 0
+  },
+  {
+   "sent_id": "33f47efb7fea",
+   "label": 2
+  },
+  {
+   "sent_id": "c47f001d1a50",
+   "label": 1
+  },
+  {
+   "sent_id": "44012c4cc441",
+   "label": 2
+  },
+  {
+   "sent_id": "4696752f1e68",
+   "label": 0
+  },
+  {
+   "sent_id": "b95e52768c53",
+   "label": 1
+  },
+  {
+   "sent_id": "f75b4a83e5e4",
+   "label": 0
+  }
+ ],
+ "offsets": {
+  "neutral": -3.104544894921646,
+  "negative": -2.9372348126447148
+ },
+ "draw_seed": 17,
+ "k_per_class": 4
+}

@@ -19,7 +19,7 @@ wandb/
 *.pkl
 *.pickle
 
-# Files that contain dataset sentences (no license stated for SentiGOLD or SentNoB)
+# Files that contain dataset sentences (no license stated for SentiGOLD)
 *_annotations.csv
 annotator_benchmark.csv
 data/

@@ -1,4 +1,0 @@
-setting,test_macro_f1,test_accuracy,note
-banglabert_full_supervised,0.685,0.709,"trained on the full pool, seed 17"
-qwen2.5-7b-instruct_zero_shot,0.5566604992220596,0.5645302897278315,from saved result file
-qwen2.5-7b-instruct_few_shot,0.5605828707633842,0.5847234416154522,from saved result file
